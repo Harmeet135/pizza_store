@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/pweb/static/css/main.31d6cfe0.css",
+    "main.js": "/pweb/static/js/main.0312514b.js",
+    "index.html": "/pweb/index.html",
+    "main.0312514b.js.map": "/pweb/static/js/main.0312514b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.0312514b.js"
+  ]
+}
